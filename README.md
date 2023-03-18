@@ -1,2 +1,1 @@
-# brownecongsa.github.io
-Brown Econ Graduate Student Association Website
+# Brown Economics Graduate Student Association
